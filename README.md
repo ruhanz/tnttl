@@ -1,5 +1,4 @@
 # tnttl
 
-use `Musescore Studio 4` to open
-
-The latest versions of the composition are "Lyrics 2" and "Piano Begleitung 3"
+use `Musescore Studio 4` to edit `tnttl band.mscz`.
+The song changes from C minor to F minor in bar 68. For `tnttl voice 简谱.pdf`, the three notes in bar 68 are the same notes.
